@@ -15,6 +15,9 @@ Why it changed? Microsoft bought Nokia and decided not to taking care about J2ME
 
 For more information, see [this Reddit post](https://www.reddit.com/r/Nokia/comments/3s2g5g/more_info_about_s30mediatek_mre/) and this [ycombinator news](https://news.ycombinator.com/item?id=14288221)
 
+## New to MRE development?
+See [this](https://github.com/raspiduino/mre-sdk/discussions/1)
+
 ## Other links
 - https://shifat100.xtgem.com/ is a great website storing `.vxp` apps for `S30+` platform.
 - [This Github issue](https://github.com/UstadMobile/ustadmobile-mre/issues/2) contains the link to the SDK
