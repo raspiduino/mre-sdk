@@ -1,17 +1,17 @@
 # mre-sdk
 An archive of the MRE Software Development Kit and related resources in case someone needs it.
 
-## I want to download right now!
+## Where can I get the SDK?
 Go to [Release](https://github.com/raspiduino/mre-sdk/releases)
 
 ## What is MRE?
 It is an SDK for [S30+](https://en.wikipedia.org/wiki/Series_30%2B) platform developed by Mediatek.
 
-## Why not downloading from its official site?
-That website was taken down! (You can still view it from [WayBack machine](https://archive.org/web)), but you cannot download anything from it.
+## Why not download from its official site?
+That website was taken down :( (You can still view it from [WayBack machine](https://archive.org/web), but you cannot download anything from it.)
 The reason why it was taken down is that MRE failed in the market. Nokia phones often use J2ME Java framework for running apps, but this series use MRE to write C++ apps, so it breaks the compatibility!
 
-Why it changed? Microsoft bought Nokia and decided not to taking care about J2ME things and instead use a new framework licensed from Mediatek.
+*Why it changed?* Microsoft bought Nokia and decided not to taking care about J2ME things and instead use a new framework licensed from Mediatek.
 
 For more information, see [this Reddit post](https://www.reddit.com/r/Nokia/comments/3s2g5g/more_info_about_s30mediatek_mre/) and this [ycombinator news](https://news.ycombinator.com/item?id=14288221)
 
