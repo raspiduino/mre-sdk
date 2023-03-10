@@ -1,5 +1,5 @@
 # mre-sdk
-MRE-sdk archive in case someone needs it
+An archive of the MRE Software Development Kit and related resources in case someone needs it.
 
 ## I want to download right now!
 Go to [Release](https://github.com/raspiduino/mre-sdk/releases)
@@ -18,13 +18,24 @@ For more information, see [this Reddit post](https://www.reddit.com/r/Nokia/comm
 ## New to MRE development?
 See [this](https://github.com/raspiduino/mre-sdk/discussions/1)
 
-## Other links
-- https://shifat100.xtgem.com/ is a great website storing `.vxp` apps for `S30+` platform.
+## Related links/resources
+> **PS:** Try to preserve these websites by saving them on [archive.org](https://archive.org)
+
+### VXP Downloads
+- https://github.com/ptnnx/MRE/tree/main/Games (This repository has some `.zip` files that contain `.vxp`s collected from different websites
+- https://shifat100.xtgem.com/
+- https://pranta.mobie.in/files/MRE.html
+- http://ssworld.mobie.in/mre%20apps
+- http://www.usemre.xtgem.com/
+- https://soundsip.com/nokia-mre-vxp-games.xhtml
+
+Resources useful for MRE development:
 - [This Github issue](https://github.com/UstadMobile/ustadmobile-mre/issues/2) contains the link to the SDK
 - [This repo](https://github.com/UstadMobile/ustadmobile-mre/) has a great MRE example
 
 ## Credits
 [sankalpdeveloper](https://github.com/sankalpdeveloper) who preserved this SDK.
+[yeppiidev](https://github.com/yeppiidev) for additional research.
 
 <hr>
 I believe that anyone have the right to develop and run their software on their devices. I myself have a Nokia 220 and a Nokia 225, and have wondered how to develop/crack apps on these phones since I were small :)
