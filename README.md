@@ -34,9 +34,8 @@ See [this discussion](https://github.com/raspiduino/mre-sdk/discussions/1) for m
 - [This repo](https://github.com/UstadMobile/ustadmobile-mre/) has a great MRE example
 
 ## Credits
-[sankalpdeveloper](https://github.com/sankalpdeveloper) who preserved this SDK.
-
-[yeppiidev](https://github.com/yeppiidev) for additional research.
+- [sankalpdeveloper](https://github.com/sankalpdeveloper) who preserved this SDK.
+- [yeppiidev](https://github.com/yeppiidev) for additional research.
 
 <hr>
 I believe that anyone have the right to develop and run their software on their devices. I myself have a Nokia 220 and a Nokia 225, and have wondered how to develop/crack apps on these phones since I were small :)
