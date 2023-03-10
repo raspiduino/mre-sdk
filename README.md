@@ -32,6 +32,7 @@ See [this discussion](https://github.com/raspiduino/mre-sdk/discussions/1) for m
 ## Resources useful for MRE development:
 - [This Github issue](https://github.com/UstadMobile/ustadmobile-mre/issues/2) contains the link to the SDK
 - [This repo](https://github.com/UstadMobile/ustadmobile-mre/) has a great MRE example
+- https://vxpatch.luxferre.top/ allows you to sign your `.vxp` files with your SIM card's `IMSI` number
 
 ## Credits
 - [sankalpdeveloper](https://github.com/sankalpdeveloper) who preserved this SDK.
