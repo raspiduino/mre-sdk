@@ -35,6 +35,7 @@ See [this discussion](https://github.com/raspiduino/mre-sdk/discussions/1) for m
 
 ## Credits
 [sankalpdeveloper](https://github.com/sankalpdeveloper) who preserved this SDK.
+
 [yeppiidev](https://github.com/yeppiidev) for additional research.
 
 <hr>
