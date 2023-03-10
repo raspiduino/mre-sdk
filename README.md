@@ -16,7 +16,7 @@ The reason why it was taken down is that MRE failed in the market. Nokia phones 
 For more information, see [this Reddit post](https://www.reddit.com/r/Nokia/comments/3s2g5g/more_info_about_s30mediatek_mre/) and this [ycombinator news](https://news.ycombinator.com/item?id=14288221)
 
 ## New to MRE development?
-See [this](https://github.com/raspiduino/mre-sdk/discussions/1)
+See [this discussion](https://github.com/raspiduino/mre-sdk/discussions/1) for more resources.
 
 ## Related links/resources
 > **PS:** Try to preserve these websites by saving them on [archive.org](https://archive.org)
@@ -29,7 +29,7 @@ See [this](https://github.com/raspiduino/mre-sdk/discussions/1)
 - http://www.usemre.xtgem.com/
 - https://soundsip.com/nokia-mre-vxp-games.xhtml
 
-Resources useful for MRE development:
+## Resources useful for MRE development:
 - [This Github issue](https://github.com/UstadMobile/ustadmobile-mre/issues/2) contains the link to the SDK
 - [This repo](https://github.com/UstadMobile/ustadmobile-mre/) has a great MRE example
 
