@@ -1,5 +1,5 @@
 # Development Resources
-This document may contain tools/references to resources that might be useful to you for developing MRE apps.
+This document may contain tools/references to resources that might come handy while developing apps for MRE.
 
 ## RGB565 Color Picker
 Colors in MRE apps are generally stored in an RGB565 format. To generate colors in this format, use this tool: https://chrishewett.com/blog/true-rgb565-colour-picker/
