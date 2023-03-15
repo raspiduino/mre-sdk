@@ -1,4 +1,4 @@
-# mre-sdk
+# MRE SDK Development Resources
 An archive of the MRE Software Development Kit and related resources in case someone needs it.
 
 ## Where can I get the SDK?
@@ -16,7 +16,8 @@ The reason why it was taken down is that MRE failed in the market. Nokia phones 
 For more information, see [this Reddit post](https://www.reddit.com/r/Nokia/comments/3s2g5g/more_info_about_s30mediatek_mre/) and this [ycombinator news](https://news.ycombinator.com/item?id=14288221)
 
 ## New to MRE development?
-See [this discussion](https://github.com/raspiduino/mre-sdk/discussions/1) for more resources.
+- See [this discussion](https://github.com/raspiduino/mre-sdk/discussions/1) for more resources.
+- Check out [FAQs](FAQs.md) for a list of frequently asked questions and solutions/answers related to them.
 
 ## Related links/resources
 > **PS:** Try to preserve these websites by saving them on [archive.org](https://archive.org)
@@ -29,12 +30,12 @@ See [this discussion](https://github.com/raspiduino/mre-sdk/discussions/1) for m
 - http://www.usemre.xtgem.com/
 - https://soundsip.com/nokia-mre-vxp-games.xhtml
 
-## Resources useful for MRE development:
+### Resources useful for MRE development:
 - [This Github issue](https://github.com/UstadMobile/ustadmobile-mre/issues/2) contains the link to the SDK
 - [This repo](https://github.com/UstadMobile/ustadmobile-mre/) has a great MRE example
 - https://vxpatch.luxferre.top/ allows you to sign your `.vxp` files with your SIM card's `IMSI` number
 
-## Credits
+# Credits
 - [sankalpdeveloper](https://github.com/sankalpdeveloper) who preserved this SDK.
 - [yeppiidev](https://github.com/yeppiidev) for additional research.
 
