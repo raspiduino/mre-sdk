@@ -39,6 +39,9 @@ For more information, see [this Reddit post](https://www.reddit.com/r/Nokia/comm
 - [sankalpdeveloper](https://github.com/sankalpdeveloper) who preserved this SDK.
 - [yeppiidev](https://github.com/yeppiidev) for additional research.
 
+# Got questions?
+We've got a Discord server: https://discord.gg/b3pZ55XdXh
+
 <hr>
 I believe that anyone have the right to develop and run their software on their devices. I myself have a Nokia 220 and a Nokia 225, and have wondered how to develop/crack apps on these phones since I were small :)
 
